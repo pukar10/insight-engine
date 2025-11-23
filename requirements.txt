@@ -4,3 +4,6 @@ sentence-transformers
 pypdf
 tqdm
 ollama
+langchain
+langchain-community
+langchain-text-splitters
